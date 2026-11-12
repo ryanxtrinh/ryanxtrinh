@@ -27,7 +27,7 @@ Cybersecurity Analytics & Operations student at **Penn State** (Dean's List, gra
 - **Networking:** TCP/IP · DNS · DHCP · VLANs · routing & switching · IP addressing · protocol-level troubleshooting
 - **Network security:** traffic analysis · vulnerability concepts · CIA triad · ethical hacking basics (lab-based)
 - **Operating systems:** Windows · Linux (Ubuntu, Kali)
-- **Programming & data:** Java · SQL (joins, CTEs, window functions) · JDBC · SQLite · R
+- **Programming & data:** Java · C++ · SQL (joins, CTEs, window functions) · JDBC · SQLite · R
 - **Tools:** Wireshark · Zeek · Cisco Packet Tracer · CYRIN Labs
 - **Compliance & risk:** CIS Benchmarks · NIST CSF 2.0 · ISO 27001 control mapping · risk-weighted scoring
 
