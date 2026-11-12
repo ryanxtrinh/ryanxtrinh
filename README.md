@@ -1,6 +1,6 @@
 ## Hi, I'm Ryan 👋
 
-Cybersecurity Analytics & Operations student at **Penn State** (graduating May 2028), focused on **IT audit, GRC and network security**. I like building tools that check whether controls actually work, then writing up the results the way an auditor would.
+Cybersecurity Analytics & Operations student at **Penn State** (Dean's List, graduating May 2028), focused on **IT audit, GRC and network security**. I like building tools that check whether controls actually work, then writing up the results the way an auditor would.
 
 - 🔍 Interested in: IT audit, security compliance, network security monitoring, threat detection
 - 📚 Currently studying for: **CompTIA Security+**
